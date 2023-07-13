@@ -13,5 +13,5 @@ This project focuses on developing and implementing a breast cancer classificati
 * Utilized a diverse set of machine-learning techniques to explore different modeling approaches and improve classification performance.
 * Comprehensive evaluation and comparison of multiple algorithms, providing insights into their strengths and limitations for breast cancer classification.
 
-## Data
+## Dataset
 UC Irvine Machine Learning Repository
