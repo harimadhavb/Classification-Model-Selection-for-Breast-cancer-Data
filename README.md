@@ -1,5 +1,5 @@
 # Classification-Model-Selection-for-Breast-cancer-Data
-This personal project focuses on developing and implementing a breast cancer classification system using various machine learning algorithms. The goal is to accurately classify breast tumors as malignant or benign, aiding in early detection and diagnosis.
+This project focuses on developing and implementing a breast cancer classification system using various machine learning algorithms. The goal is to accurately classify breast tumors as malignant or benign, aiding in early detection and diagnosis.
 
 ## Key Features
 * Breast cancer classification system using machine learning algorithms:
